@@ -8,14 +8,14 @@ import {
     FaTwitter,
     FaLinkedinIn,
     FaGithub,
-    FaYoutube,
-    FaBloggerB,
-    FaRedditAlien,
-    FaStackOverflow,
-    FaCodepen,
     FaInstagram,
-    FaGitlab,
-    FaMediumM,
+    // FaYoutube,
+    // FaBloggerB,
+    // FaRedditAlien,
+    // FaStackOverflow,
+    // FaCodepen,
+    // FaGitlab,
+    // FaMediumM,
 } from 'react-icons/fa';
 import { AiOutlineSend, AiOutlineCheckCircle } from 'react-icons/ai';
 import { FiPhone, FiAtSign } from 'react-icons/fi';
